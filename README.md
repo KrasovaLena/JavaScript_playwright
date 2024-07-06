@@ -7,4 +7,4 @@
 
 **lecture_2:**
 ***Лекция 2. Нативные локаторы в Playwright. Основные методы и assertions***
-<br/>To work with react drop-down menu - write down in console: setTimeout(() => { debugger }, 3000)
+<br/>To work with react drop-down menu - write down in console: ```setTimeout(() => { debugger }, 3000)```
